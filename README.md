@@ -1,5 +1,6 @@
 # Introduction
-This project was created within a group of six students, all in their second year of study in Creative Media and Game Technology. <br>
+This project was created within a group of seven students, all in their second year of study<br>
+in Creative Media and Game Technology. <br>
 
 > [!CAUTION]
 > **Artists**
@@ -17,12 +18,12 @@ This project was created within a group of six students, all in their second yea
 > * Daria Petcu
 > * Andreas Degtjarow
 
-Using Unity, the goal was to create an experience similar to the VR game "Richies Plank Experience", using the study as a theme. <br>
-It was to be used as show-off project in open days of the university. <br>
+Using Unity, the goal was to create an experience similar to the VR game "Richies Plank Experience",<br>
+using the studies environment as a theme for the art. <br><br>
+It was to be used as show-off project in open days of the university, where participants would stand<br>
+on an actual plank while wearing the VR goggles.<br><br>
 This project was also the first time working on a VR application for each of our team members.
-<br>
-<br>
-To make this experience more immersive, players were made to stand on a real plank, while playing this game in VR goggles.
+<br><br>
 
 # Content
 
