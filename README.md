@@ -48,6 +48,8 @@ If not careful enough, they would be catapulted into outer space.
 ## Fencing against a Pirate
 Standing on a plank of their ship in the ocean, the player needs to defend themselves against a pirate.<br>
 If they fail to parry the incoming attacks or lose balance, they fall into the ocean.
+<br>
+<br>
 ![3](https://github.com/user-attachments/assets/3a0f734b-7a1b-49a8-b733-c469aa546d8a)
 <br>
 <br>
@@ -56,6 +58,8 @@ If they fail to parry the incoming attacks or lose balance, they fall into the o
 Standing on a scaffold inside a church, the player needs to color the picture infront of them.<br>
 Within four minutes, they are supposed to colour it with what is available to their own liking.<br>
 If they lose balance, they fall off the scaffold onto the ground of the church.
+<br>
+<br>
 ![5](https://github.com/user-attachments/assets/534499ac-5b63-4477-aae9-07fc3331c852)
 <br>
 <br>
@@ -63,6 +67,8 @@ If they lose balance, they fall off the scaffold onto the ground of the church.
 ## Game Over Room
 If they lose a minigame, by falling of their respective planks, the player is brought into an empty space.<br>
 Touching the light within the green area brings them back to the lobby they're already familiar with.
+<br>
+<br>
 ![4](https://github.com/user-attachments/assets/15917f87-790c-4204-8b93-e9c5aa7bcd8c)
 <br>
 <br>
